@@ -1,2 +1,2 @@
 # Euler_Project
-why wont you let me create a new repo?
+Repo to store my Euler Project solutions
