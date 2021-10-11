@@ -5,6 +5,8 @@
 #SOLUTION LEVEL(simple): for each number between 1 & 1000 check to see if it is
 # divisible by 3 or 5. if so add it to a running total to find the sum.
 
+#COMPLEXITY: O(n) 
+
 import math
 
 total = 0 #Initialize running count
