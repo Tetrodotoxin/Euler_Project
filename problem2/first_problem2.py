@@ -1,8 +1,8 @@
 #PROBLEM 1: Considering the terms in the Fibonacci sequence (starting with 1&2)
 # whose values do not exceed four million, find the sum of the even-valued terms.
 
-#SOLUTION LEVEL(simple): For each value made by the fibonacci generator, if it
-# is divisible by 2, add it to the running_total.
+#SOLUTION LEVEL(simple): For each value made by the iterative fibonacci
+# generator, if it is divisible by 2, add it to the running_total.
 
 #COMPLEXITY: O(?)
 
