@@ -19,7 +19,6 @@ old_fib = 1
 while fib <= limit:
 
     if fib%2 == 0: # Is fib even
-        print(fib)
         running_total += fib
 
     new_fib = fib_gen(fib,old_fib)
