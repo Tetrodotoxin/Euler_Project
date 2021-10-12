@@ -4,7 +4,7 @@
 #SOLUTION LEVEL(simple): For each value made by the iterative fibonacci
 # generator, if it is divisible by 2, add it to the running_total.
 
-#COMPLEXITY: O(?)
+#COMPLEXITY: O(n) ish TODO AJE: revise 
 
 def fib_gen(num1,num2):
     fib = num1+num2
