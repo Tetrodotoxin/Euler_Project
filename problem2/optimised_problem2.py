@@ -1,4 +1,4 @@
-#PROBLEM 1: Considering the terms in the Fibonacci sequence (starting with 1&2)
+#PROBLEM 2: Considering the terms in the Fibonacci sequence (starting with 1&2)
 # whose values do not exceed four million, find the sum of the even-valued terms.
 
 #SOLUTION LEVEL(optimised): The iterative Fibonacci generator of the first
